@@ -1,2 +1,2 @@
 # Ichimoku_scalper
-trading bot
+An example of a trading bot with Ichimoku Kinko Hyo and Parabolic SAR. In the backtesting and the optimization modes, the bot is profitable. But of course this is an example, the bot is for sure overfitted. However, we can see in the optimization mode that it present good characteristic and can be used as a base to develop more robust bots, with volatility filter for example or with other hours our days filters.
